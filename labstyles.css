@@ -59,7 +59,6 @@ footer {
   margin-bottom: 80px;
 }
 
-/* Mobile responsiveness */
 @media (max-width: 768px) {
   .portfolio-item {
     margin: 1rem 0;
